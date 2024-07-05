@@ -1,6 +1,6 @@
 
 
-### <div align="center"> Hi👋there , I'm Sunil Gundrapu , An Enthusiastic Data Analyst Hailing from India</div>  
+### <div align="center"> Hi👋there , I'm Sunil Gundrapu , An Enthusiastic IT Intern Hailing from India</div>  
   
 
 - 🔭 I’m currently working on Web Development & Data Analytics   
