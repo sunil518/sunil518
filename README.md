@@ -3,13 +3,13 @@
 ### <div align="center"> Hi👋there , I'm Sunil Gundrapu , An Enthusiastic Data Analyst Hailing from India</div>  
   
 
-- 🔭 I’m currently working on Data Analytics   
+- 🔭 I’m currently working on Web Development & Data Analytics   
   
 
-- 🌱 I’m currently learning Power Bi And Tableau   
+- 🌱 I’m currently learning JavaScript, Power Bi , Tableau   
   
 
-- ❓ Ask me about anything related to Data Analytics and related technologies  
+- ❓ Ask me about anything related to Data Analytics and web technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
